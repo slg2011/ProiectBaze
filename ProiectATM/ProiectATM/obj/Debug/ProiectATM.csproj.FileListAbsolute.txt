@@ -1,0 +1,13 @@
+C:\Users\Catalin\Desktop\adm_baze_date\ProiectATM\ProiectATM\bin\Debug\ProiectATM.exe.config
+C:\Users\Catalin\Desktop\adm_baze_date\ProiectATM\ProiectATM\bin\Debug\ProiectATM.exe
+C:\Users\Catalin\Desktop\adm_baze_date\ProiectATM\ProiectATM\bin\Debug\ProiectATM.pdb
+C:\Users\Catalin\Desktop\adm_baze_date\ProiectATM\ProiectATM\bin\Debug\EntityFramework.dll
+C:\Users\Catalin\Desktop\adm_baze_date\ProiectATM\ProiectATM\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Catalin\Desktop\adm_baze_date\ProiectATM\ProiectATM\bin\Debug\EntityFramework.xml
+C:\Users\Catalin\Desktop\adm_baze_date\ProiectATM\ProiectATM\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Catalin\Desktop\adm_baze_date\ProiectATM\ProiectATM\obj\Debug\ProiectATM.csprojResolveAssemblyReference.cache
+C:\Users\Catalin\Desktop\adm_baze_date\ProiectATM\ProiectATM\obj\Debug\ProiectATM.exe
+C:\Users\Catalin\Desktop\adm_baze_date\ProiectATM\ProiectATM\obj\Debug\ProiectATM.pdb
+C:\Users\Catalin\Documents\GitHub\ProiectATM\ProiectBaze\ProiectATM\ProiectATM\bin\Debug\ProiectATM.exe.config
+C:\Users\Catalin\Documents\GitHub\ProiectATM\ProiectBaze\ProiectATM\ProiectATM\obj\Debug\ProiectATM.exe
+C:\Users\Catalin\Documents\GitHub\ProiectATM\ProiectBaze\ProiectATM\ProiectATM\obj\Debug\ProiectATM.pdb
